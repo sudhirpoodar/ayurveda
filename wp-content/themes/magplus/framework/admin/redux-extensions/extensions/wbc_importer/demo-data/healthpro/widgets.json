@@ -1,0 +1,77 @@
+{
+  "main":
+  {
+    "null-instagram-feed-5":
+    {
+      "title": "Instagram",
+      "username": "health",
+      "number": "9",
+      "size": "large",
+      "target": "_self",
+      "link": "Follow Me!"
+    },
+    "tabbed-posts-1":
+    {
+      "title": "Top 5 Eating TipsTop 5 Eating Tips",
+      "number": 5
+    },
+    "custom-ads-1":
+    {
+      "title": "",
+      "url": "http:\/\/themebubble.com\/demo\/magplus\/healthpro\/wp-content\/uploads\/sites\/17\/2017\/08\/4dd81744ca1ce7149d58e8d8055635d4.gif",
+      "link": ""
+    },
+    "social-follow-1":
+    {
+      "title": "",
+      "fb_link": "#",
+      "twitter_link": "#",
+      "insta_link": "#"
+    }
+  },
+  "footer-1":
+  {
+    "text-1":
+    {
+      "title": "",
+      "text": "<div class=\"footer-logo\">\r\n<img src=\"http:\/\/themebubble.com\/demo\/magplus\/wp-content\/uploads\/2017\/03\/dark-logo.png\">  \r\n<\/div>\r\n<div class=\"empty-space marg-lg-b20\"><\/div>",
+      "filter": false
+    },
+    "social-media-1":
+    {
+      "title": "",
+      "style": 0,
+      "category": "11"
+    }
+  },
+  "footer-2":
+  {
+    "null-instagram-feed-3":
+    {
+      "title": "Instagram",
+      "username": "food",
+      "number": "10",
+      "size": "large",
+      "target": "_self",
+      "link": "Follow Me!"
+    }
+  },
+  "footer-3":
+  {
+    "recent-posts-3":
+    {
+      "title": "Recent Posts",
+      "number": 3,
+      "show_date": false
+    }
+  },
+  "footer-4":
+  {
+    "subscribe-widget-3":
+    {
+      "title": "Be fit. Always.",
+      "content": "Weekly fitness main inbox.",
+      "image_url": "http:\/\/themebubble.com\/demo\/magplus\/healthpro\/wp-content\/uploads\/sites\/17\/2017\/07\/Natural-Health-2.jpg"
+    }
+  }
+}

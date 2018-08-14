@@ -1,0 +1,48 @@
+{
+  "main":
+  {
+    "tabbed-posts-2":
+    {
+      "title": "",
+      "number": 5
+    },
+    "two-column-post-2":
+    {
+      "title": "Human-curated Stuff",
+      "number": 8
+    },
+    "latest-posts-3":
+    {
+      "title": "You May Like",
+      "number": 4,
+      "style": 1
+    },
+    "social-follow-2":
+    {
+      "title": "",
+      "fb_link": "#",
+      "twitter_link": "#",
+      "insta_link": "#"
+    },
+    "gallery-posts-2":
+    {
+      "title": "Today's Pick",
+      "category": 268
+    },
+    "custom-ads-2":
+    {
+      "title": "",
+      "url": "http:\/\/themebubble.com\/demo\/magplus\/wp-content\/uploads\/2017\/07\/Ad.png",
+      "link": ""
+    }
+  },
+  "footer-3":
+  {
+    "recent-posts-2":
+    {
+      "title": "Recent Posts",
+      "number": 3,
+      "show_date": false
+    }
+  }
+}

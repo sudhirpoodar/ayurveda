@@ -1,0 +1,43 @@
+{
+  "main":
+  {
+    "tabbed-posts-2":
+    {
+      "title": "",
+      "number": 4
+    },
+    "latest-posts-3":
+    {
+      "title": "Most Popular",
+      "number": 5,
+      "style": 1
+    },
+    "social-follow-2":
+    {
+      "title": "",
+      "fb_link": "#",
+      "twitter_link": "#",
+      "insta_link": "#"
+    },
+    "subscribe-widget-4":
+    {
+      "title": "Sign up for Newsletter",
+      "content": "Hottest articles on your inbox!",
+      "image_url": "http:\/\/themebubble.com\/demo\/magplus\/fashionpro\/wp-content\/uploads\/sites\/3\/2017\/03\/Newletters.jpg"
+    },
+    "custom-ads-2":
+    {
+      "title": "",
+      "url": "http:\/\/themebubble.com\/demo\/magplus\/fashionpro\/wp-content\/uploads\/sites\/3\/2017\/03\/Ad.jpg",
+      "link": "#"
+    }
+  },
+  "footer-3":
+  {
+    "recent-posts-2":
+    {
+      "title": "",
+      "number": 5
+    }
+  }
+}

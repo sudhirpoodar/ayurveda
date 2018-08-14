@@ -1,0 +1,74 @@
+{
+  "main":
+  {
+    "tabbed-posts-1":
+    {
+      "title": "",
+      "number": 8
+    },
+    "latest-posts-1":
+    {
+      "title": "Most Popular",
+      "number": 8,
+      "style": 1
+    },
+    "subscribe-widget-1":
+    {
+      "title": "Sign up for Newsletter",
+      "content": "Hottest articles on your inbox!",
+      "image_url": "http:\/\/themebubble.com\/demo\/magplus\/wp-content\/uploads\/2017\/08\/Untitled-2.jpg"
+    },
+    "social-follow-1":
+    {
+      "title": "",
+      "fb_link": "#",
+      "twitter_link": "#",
+      "insta_link": "#"
+    }
+  },
+  "footer-1":
+  {
+    "text-1":
+    {
+      "title": "",
+      "text": "<div class=\"footer-logo\">\r\n<img src=\"http:\/\/themebubble.com\/demo\/magplus\/wp-content\/uploads\/2017\/03\/dark-logo.png\" alt=\"\">  \r\n<\/div>\r\n<div class=\"empty-space marg-lg-b20\"><\/div>",
+      "filter": false,
+      "visual": false
+    },
+    "social-media-1":
+    {
+      "title": "",
+      "style": 0,
+      "category": "11"
+    }
+  },
+  "footer-2":
+  {
+    "null-instagram-feed-3":
+    {
+      "title": "Instagram",
+      "username": "luxury",
+      "number": "10",
+      "size": "large",
+      "target": "_self",
+      "link": "Follow Me!"
+    }
+  },
+  "footer-3":
+  {
+    "recent-posts-3":
+    {
+      "title": "Recent Posts",
+      "number": 3,
+      "show_date": false
+    }
+  },
+  "footer-4":
+  {
+    "tag_cloud-1":
+    {
+      "title": "Popular Tags",
+      "taxonomy": "post_tag"
+    }
+  }
+}

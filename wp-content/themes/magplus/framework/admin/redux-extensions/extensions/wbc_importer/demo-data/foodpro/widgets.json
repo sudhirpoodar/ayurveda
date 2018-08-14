@@ -1,0 +1,43 @@
+{
+  "footer-1":
+  {
+    "text-2":
+    {
+      "title": "",
+      "text": "<img src=\"http:\/\/themebubble.com\/demo\/magplus\/wp-content\/uploads\/2017\/05\/LogoDark.png\" alt=\"\" \/>",
+      "filter": true,
+      "visual": true
+    }
+  },
+  "footer-2":
+  {
+    "recent-posts-2":
+    {
+      "title": "Recent Posts",
+      "number": 3,
+      "show_date": false
+    }
+  },
+  "footer-3":
+  {
+    "null-instagram-feed-2":
+    {
+      "title": "Instagram",
+      "username": "andreabemis",
+      "number": "8",
+      "size": "small",
+      "target": "_self",
+      "link": "Follow Me!"
+    }
+  },
+  "footer-4":
+  {
+    "social-follow-4":
+    {
+      "title": "Follow Us",
+      "fb_link": "#",
+      "twitter_link": "#",
+      "insta_link": "#"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+2018-08-12T17:18:17+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /var/www/patanjali/public/wp-content/plugins/magplus-addons/shortcodes/rs_post_grid.php:61
+Stack trace:
+#0 /var/www/patanjali/public/wp-includes/shortcodes.php(319): rs_post_grid(Array, '', '')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/patanjali/public/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(rs_pos...', 'do_shortcode_ta...', '[rs_post_grid c...')
+#3 /var/www/patanjali/public/wp-content/plugins/magplus-addons/shortcodes/rs_slider_content.php(44): do_shortcode('[rs_post_grid c...')
+#4 /var/www/patanjali/public/wp-includes/shortcodes.php(319): rs_slider_item('', '[rs_post_grid c...', 'rs_slider_item')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/patanjali/public/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(rs_pos...', 'do_shortcode_ta...', '[rs_slider_item...')
+#7 /var/www/patanjali/public/wp-content/plugins/magplus-addons/shortcodes/rs_slider_content.php(28): do_sho
+
+2018-08-12T17:18:19+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /var/www/patanjali/public/wp-content/plugins/magplus-addons/shortcodes/rs_post_grid.php:61
+Stack trace:
+#0 /var/www/patanjali/public/wp-includes/shortcodes.php(319): rs_post_grid(Array, '', '')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/patanjali/public/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(rs_pos...', 'do_shortcode_ta...', '[rs_post_grid c...')
+#3 /var/www/patanjali/public/wp-content/plugins/magplus-addons/shortcodes/rs_slider_content.php(44): do_shortcode('[rs_post_grid c...')
+#4 /var/www/patanjali/public/wp-includes/shortcodes.php(319): rs_slider_item('', '[rs_post_grid c...', 'rs_slider_item')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/patanjali/public/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(rs_pos...', 'do_shortcode_ta...', '[rs_slider_item...')
+#7 /var/www/patanjali/public/wp-content/plugins/magplus-addons/shortcodes/rs_slider_content.php(28): do_sho
+

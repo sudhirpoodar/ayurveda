@@ -1,0 +1,80 @@
+{
+  "main":
+  {
+    "custom-ads-1":
+    {
+      "title": "",
+      "url": "http:\/\/themebubble.com\/demo\/magplus\/fitnesspro\/wp-content\/uploads\/sites\/15\/2017\/08\/c2e37990061aeeb8c174f8a70849d5a6.jpg",
+      "link": ""
+    },
+    "tabbed-posts-1":
+    {
+      "title": "",
+      "number": 5
+    },
+    "null-instagram-feed-3":
+    {
+      "title": "Instagram",
+      "username": "curtiswilliams17",
+      "number": "9",
+      "size": "large",
+      "target": "_self",
+      "link": "Follow Me!"
+    },
+    "latest-posts-1":
+    {
+      "title": "Most Popular",
+      "number": 6
+    },
+    "social-follow-1":
+    {
+      "title": "",
+      "fb_link": "#",
+      "twitter_link": "#",
+      "insta_link": "#"
+    }
+  },
+  "footer-1":
+  {
+    "text-1":
+    {
+      "title": "",
+      "text": "<div class=\"footer-logo\">\r\n<img src=\"http:\/\/themebubble.com\/demo\/magplus\/wp-content\/uploads\/2017\/03\/dark-logo.png\">  \r\n<\/div>\r\n<div class=\"empty-space marg-lg-b20\"><\/div>",
+      "filter": false
+    },
+    "social-media-1":
+    {
+      "title": "",
+      "style": 0,
+      "category": "11"
+    }
+  },
+  "footer-2":
+  {
+    "latest-posts-3":
+    {
+      "title": "",
+      "number": 2,
+      "style": 1
+    }
+  },
+  "footer-3":
+  {
+    "recent-posts-3":
+    {
+      "title": "Recent Posts",
+      "number": 3,
+      "show_date": false
+    }
+  },
+  "footer-4":
+  {
+    "social-follow-3":
+    {
+      "title": "Follow US",
+      "fb_link": "www",
+      "twitter_link": "",
+      "insta_link": ""
+    }
+  }
+}

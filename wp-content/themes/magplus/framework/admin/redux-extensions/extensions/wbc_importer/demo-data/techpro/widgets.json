@@ -1,0 +1,101 @@
+{
+  "main":
+  {
+    "latest-posts-2":
+    {
+      "title": "",
+      "number": 12,
+      "style": 2
+    },
+    "subscribe-widget-2":
+    {
+      "title": "Sign up to Newsletter",
+      "content": "The latest technology news",
+      "image_url": "http:\/\/themebubble.com\/demo\/magplus\/wp-content\/uploads\/2017\/08\/Untitled-2.jpg"
+    },
+    "latest-posts-5":
+    {
+      "title": "Trending Tech",
+      "number": 5,
+      "style": 1
+    }
+  },
+  "footer-1":
+  {
+    "text-1":
+    {
+      "title": "",
+      "text": "<div class=\"footer-logo\">\r\n<img src=\"http:\/\/themebubble.com\/demo\/magplus\/wp-content\/uploads\/2017\/05\/LogoDark.png\">  \r\n<\/div>\r\n<div class=\"empty-space marg-lg-b20\"><\/div>",
+      "filter": false
+    },
+    "social-media-1":
+    {
+      "title": "",
+      "style": 0,
+      "category": "11"
+    }
+  },
+  "footer-2":
+  {
+    "recent-posts-7":
+    {
+      "title": "",
+      "number": 3,
+      "show_date": false
+    }
+  },
+  "footer-3":
+  {
+    "gallery-posts-3":
+    {
+      "title": "Most Read",
+      "category": 703
+    }
+  },
+  "footer-4":
+  {
+    "null-instagram-feed-3":
+    {
+      "title": "Instagram",
+      "username": "bbc",
+      "number": "10",
+      "size": "large",
+      "target": "_self",
+      "link": "Follow Me!"
+    }
+  },
+  "sidebar-two":
+  {
+    "recent-posts-4":
+    {
+      "title": "Latest Trends",
+      "number": 6,
+      "show_date": false
+    },
+    "custom-ads-2":
+    {
+      "title": "",
+      "url": "http:\/\/themebubble.com\/demo\/magplus\/techpro\/wp-content\/uploads\/sites\/9\/2017\/08\/9b10eea4d69e1f50a1b69809bdf85809.jpg",
+      "link": ""
+    },
+    "latest-posts-6":
+    {
+      "title": "More Tech",
+      "number": 7,
+      "style": 1
+    },
+    "social-follow-2":
+    {
+      "title": "",
+      "fb_link": "",
+      "twitter_link": "",
+      "insta_link": ""
+    },
+    "latest-posts-7":
+    {
+      "title": "",
+      "number": 6,
+      "style": 2
+    }
+  }
+}

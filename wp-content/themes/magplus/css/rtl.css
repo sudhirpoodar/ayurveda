@@ -1,0 +1,40 @@
+body,
+html,
+.wpcf7 {
+  direction: rtl;
+}
+
+#colophon {
+  direction: rtl;
+  text-align: right;
+}
+
+.tt-breaking-news,
+.tt-header .main-nav > ul > li {
+  float: right;
+}
+
+.tt-breaking-post,
+.tt-item-post-title .tt-title-ul,
+.tt-item-post-title,
+.tt-post-info,
+.tt-mega-list,
+.tt-header .nav-more {
+  text-align: right;
+}
+
+.special-text {
+  text-align: right !important;
+}
+
+.tt-breaking-news-title {
+  margin-right: 0;
+}
+
+.tt-header .nav-more.nav-more-left {
+  left: 0;
+  margin-left:0;
+  width: 20%;
+  text-align: right;
+  right: initial;
+}

@@ -1,0 +1,104 @@
+{
+  "main":
+  {
+    "tabbed-posts-2":
+    {
+      "title": "",
+      "number": 6
+    },
+    "latest-posts-3":
+    {
+      "title": "Popular Posts",
+      "number": 8,
+      "style": 2
+    },
+    "latest-posts-4":
+    {
+      "title": "Popular Posts",
+      "number": 7,
+      "style": 1
+    }
+  },
+  "footer-1":
+  {
+    "text-2":
+    {
+      "title": "",
+      "text": "<div class=\"footer-logo\"><img src=\"http:\/\/themebubble.com\/demo\/magplus\/wp-content\/uploads\/2017\/03\/dark-logo.png\" alt=\"\" \/><\/div>",
+      "filter": true,
+      "visual": true
+    }
+  },
+  "footer-2":
+  {
+    "latest-posts-16":
+    {
+      "title": "Popular Posts",
+      "number": 1,
+      "style": 1
+    }
+  },
+  "footer-3":
+  {
+    "recent-posts-3":
+    {
+      "title": "Recent Posts",
+      "number": 3,
+      "show_date": false
+    }
+  },
+  "footer-4":
+  {
+    "tag_cloud-7":
+    {
+      "title": "",
+      "count": 0,
+      "taxonomy": "post_tag"
+    },
+    "tag_cloud-2":
+    {
+      "title": "Categories",
+      "count": 0,
+      "taxonomy": "category"
+    }
+  },
+  "news-sidebar-left":
+  {
+    "recent-posts-8":
+    {
+      "title": "Recent Posts",
+      "number": 7,
+      "show_date": false
+    },
+    "latest-posts-5":
+    {
+      "title": "Popular Posts",
+      "number": 6,
+      "style": 1
+    },
+    "latest_tweets_widget-3":
+    {
+      "title": "Latest Tweets",
+      "screen_name": "@marieclaire_fr",
+      "num": "2",
+      "pop": "0"
+    },
+    "subscribe-widget-2":
+    {
+      "title": "Get Breaking News",
+      "content": "News delivered to your inbox.",
+      "image_url": "http:\/\/themebubble.com\/demo\/magplus\/newspro\/wp-content\/uploads\/sites\/4\/2017\/08\/Untitled-2.jpg"
+    },
+    "gallery-posts-3":
+    {
+      "title": "Viral Now",
+      "category": 585
+    },
+    "category-block-5":
+    {
+      "title": "More to Read",
+      "style": 1,
+      "category": "30, 27,2,32"
+    }
+  }
+}

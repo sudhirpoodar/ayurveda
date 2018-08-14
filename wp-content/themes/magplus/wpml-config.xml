@@ -1,0 +1,7 @@
+<wpml-config>
+  <admin-texts>
+    <key name="magplus_theme_options">
+      <key name="footer-copyright-text" />
+    </key>
+  </admin-texts>
+</wpml-config>

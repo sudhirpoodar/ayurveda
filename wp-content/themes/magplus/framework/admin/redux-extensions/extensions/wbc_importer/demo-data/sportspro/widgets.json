@@ -1,0 +1,83 @@
+{
+  "main":
+  {
+    "recent-posts-4":
+    {
+      "title": "Recent",
+      "number": 7,
+      "show_date": false
+    },
+    "custom-ads-2":
+    {
+      "title": "",
+      "url": "http:\/\/themebubble.com\/demo\/magplus\/sportspro\/wp-content\/uploads\/sites\/5\/2017\/03\/c566be8864566b2cee70827ab519d42f.jpg",
+      "link": ""
+    },
+    "tabbed-posts-2":
+    {
+      "title": "",
+      "number": 6
+    },
+    "latest-posts-2":
+    {
+      "title": "Popular",
+      "number": 8,
+      "style": 1
+    },
+    "subscribe-widget-2":
+    {
+      "title": "Sign up for Newsletter",
+      "content": "Hottest videos on your mail!",
+      "image_url": "http:\/\/themebubble.com\/demo\/magplus\/sportspro\/wp-content\/uploads\/sites\/5\/2017\/08\/Untitled-1.png"
+    },
+    "social-follow-2":
+    {
+      "title": "",
+      "fb_link": "#",
+      "twitter_link": "#",
+      "insta_link": "#"
+    },
+    "gallery-posts-2":
+    {
+      "title": "Weekly Popular",
+      "category": 338
+    }
+  },
+  "footer-1":
+  {
+    "text-2":
+    {
+      "title": "",
+      "text": "<img src=\"http:\/\/themebubble.com\/demo\/magplus\/sportspro\/wp-content\/uploads\/sites\/5\/2017\/04\/magplus_Main-2.png\" alt=\"\"\/>",
+      "filter": true,
+      "visual": true
+    }
+  },
+  "footer-2":
+  {
+    "latest-posts-3":
+    {
+      "title": "Most Read",
+      "number": 1,
+      "style": 1
+    }
+  },
+  "footer-3":
+  {
+    "recent-posts-2":
+    {
+      "title": "RECENT",
+      "number": 3,
+      "show_date": false
+    }
+  },
+  "footer-4":
+  {
+    "tag_cloud-2":
+    {
+      "title": "Popular Tags",
+      "count": 0,
+      "taxonomy": "post_tag"
+    }
+  }
+}

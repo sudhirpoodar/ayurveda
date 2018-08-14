@@ -1,0 +1,88 @@
+{
+  "main":
+  {
+    "tabbed-posts-1":
+    {
+      "title": "",
+      "number": 8
+    },
+    "custom-ads-1":
+    {
+      "title": "",
+      "url": "https:\/\/moatsearch-data.s3.amazonaws.com\/creative_screens\/de\/fa\/47\/defa47da77fb098e397eb5aeb5d5e015.jpg",
+      "link": ""
+    },
+    "latest-posts-1":
+    {
+      "title": "Most Popular",
+      "number": 8,
+      "style": 1
+    },
+    "null-instagram-feed-5":
+    {
+      "title": "Instagram",
+      "username": "bbc",
+      "number": "9",
+      "size": "large",
+      "target": "_self",
+      "link": "Follow Me!"
+    },
+    "social-follow-1":
+    {
+      "title": "",
+      "fb_link": "#",
+      "twitter_link": "#",
+      "insta_link": "#"
+    },
+    "subscribe-widget-4":
+    {
+      "title": "Sign up for Newsletter",
+      "content": "Hottest articles on your inbox!",
+      "image_url": "http:\/\/themebubble.com\/demo\/magplus\/wp-content\/uploads\/2017\/08\/Untitled-2.jpg"
+    }
+  },
+  "footer-1":
+  {
+    "text-1":
+    {
+      "title": "",
+      "text": "<div class=\"footer-logo\">\r\n<img src=\"http:\/\/themebubble.com\/demo\/magplus\/wp-content\/uploads\/2017\/03\/dark-logo.png\">  \r\n<\/div>\r\n<div class=\"empty-space marg-lg-b20\"><\/div>",
+      "filter": false
+    },
+    "social-media-1":
+    {
+      "title": "",
+      "style": 0,
+      "category": "11"
+    }
+  },
+  "footer-2":
+  {
+    "null-instagram-feed-3":
+    {
+      "title": "Follow us",
+      "username": "dynamicbanter",
+      "number": "10",
+      "size": "large",
+      "target": "_self",
+      "link": "Follow Me!"
+    }
+  },
+  "footer-3":
+  {
+    "recent-posts-3":
+    {
+      "title": "Recent Posts",
+      "number": 3,
+      "show_date": false
+    }
+  },
+  "footer-4":
+  {
+    "tabbed-posts-3":
+    {
+      "title": "",
+      "number": 2
+    }
+  }
+}
